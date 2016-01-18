@@ -1,0 +1,19 @@
+{
+  "name": "webpack-not-watch",
+  "version": "1.0.0",
+  "description": "- windows 8.1\r - node version 0.12.7\r - webpack 1.12.11",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovpv/webpack-not-watch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volkovpv/webpack-not-watch/issues"
+  },
+  "homepage": "https://github.com/volkovpv/webpack-not-watch#readme"
+}
