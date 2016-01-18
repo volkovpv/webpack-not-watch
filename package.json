@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/volkovpv/webpack-not-watch/issues"
   },
-  "homepage": "https://github.com/volkovpv/webpack-not-watch#readme"
+  "homepage": "https://github.com/volkovpv/webpack-not-watch#readme",
+  "devDependencies": {
+    "webpack": "^1.12.11"
+  }
 }
