@@ -1,7 +1,7 @@
 # Почему не работает webpack --watch ?  
 Сборка проходит нормально, но после он изменения не видит.  
   
-![start](http://joxi.ru/LmGexznhRgaeeA.jpg "start")
+![start](https://github.com/volkovpv/webpack-not-watch/blob/master/c669c1e085.jpg?raw=true "start")
 
 Картинка [тут](http://joxi.ru/LmGexznhRgaeeA "картинка тут") 
 
